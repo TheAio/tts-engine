@@ -1,0 +1,21 @@
+tts-engine.lua was created by Aio on August the 8th of 2024,
+it is licensed under the General Free and Open Source Software License v1.1.
+Wherever applicable this license should be followed and in the event that the above license can not be followed or is deemed not applicable, the GNU GPLv3 license from june 29th of 2007 should be applied instead.
+tts-engine.lua also often ships with heavily modified audio samples from the wikimedia foundation, please visit their website to find more information about the licenses for the heavily modified files.
+tools used for the process of creating the audio samples include
+firefox (www.mozilla.org),
+audacity (www.audacityteam.org) and
+ComputerCraft Music Converter (music.madefor.cc).
+
+No copyright infringement intended!
+
+THIS PROGRAM AND/OR SOURCE CODE IS GIVEN "AS-IS", WITHOUT WARRANTY, EXPLICIT OR IMPLIED.
+THE ORIGINAL AUTHOR AND/OR ADDITIONAL COPYRIGHT HOLDERS ARE NOT RESPONSIBLE FOR ANY MISUSE
+OF THE PROGRAM, AND ANY SUCH MISUSE FALLS IN THE FAULT OF THE USER. IN ADDITION, MISUSE IS
+DEFINED AS ANY USE OF THE PROGRAM AND/OR SOURCE CODE THAT DEVIATES FROM ITS INTENDED, LAWFUL,
+AND ETHICAL PURPOSE, AND WHICH MAY RESULT IN HARM, DAMAGE, OR VIOLATIONS OF APPLICABLE LAWS
+OR POLICIES.
+
+IF, IN ANY CASE, THE ABOVE NOTICE CANNOT BE APPLIED, UTILIZE LOCAL LAW TO APPLY NO WARRANTY,
+EXPLICIT OR IMPLIED, FOR ANY MISUSE OR OTHERWISE SO THAT IT IS NOT ATTRIBUTED TO THE ORIGINAL
+AUTHOR OR COPYRIGHT HOLDERS OF THE ORIGINAL PROGRAM.
