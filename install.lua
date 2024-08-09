@@ -30,7 +30,7 @@ for i=1,32 do
 end
 shell.run("cd ..")
 shell.run("wget https://raw.githubusercontent.com/TheAio/tts-engine/main/license.txt")
-shell.run("https://raw.githubusercontent.com/TheAio/tts-engine/main/tts-engine.lua")
+shell.run("wget https://raw.githubusercontent.com/TheAio/tts-engine/main/tts-engine.lua")
 print("")
 print("Hello World. Welcome to aios tts engine!")
 shell.run("tts-engine speak Hello World. Welcome to aios tts engine!")
