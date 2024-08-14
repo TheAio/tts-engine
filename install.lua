@@ -15,6 +15,9 @@ sleep(5)
 for i=1,6 do
     shell.run("wget https://github.com/TheAio/tts-engine/raw/main/tts-sounds/fr"..i..".dfpwm")
 end
+for i=1,4 do
+    shell.run("wget https://github.com/TheAio/tts-engine/raw/main/tts-sounds/pl"..i..".dfpwm")
+end
 shell.run("wget https://raw.githubusercontent.com/TheAio/tts-engine/main/tts-sounds/na1.dfpwm")
 shell.run("wget https://github.com/TheAio/tts-engine/raw/main/tts-sounds/na2.dfpwm")
 shell.run("wget https://github.com/TheAio/tts-engine/raw/main/tts-sounds/na3.dfpwm")
