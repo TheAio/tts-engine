@@ -1,7 +1,7 @@
 args = {...}
 --configure tts-engine here!
 debugMode = false
-words_enable = true --disable this if you do not have then word package!!!
+words_enable = true --disable this if you do not have the word package!!!
 folder = "tts-sounds/"
 space_length = 1 --seconds
 dot_length = 1.5 --seconds (aka fullstop)
@@ -38,9 +38,9 @@ words = {"boy","byte","call","common","delete","english","error","exit","general
 "string","support","to","version","wiktionary","world","interactive","terminated","creative",
 "redirect","prompt"}
 --code
-if #args < 0 then
+if #args < 1 then
     print("Usage:")
-    print("tts-engine say <sentance>")
+    print("tts-engine speak <sentance>")
     print("tts-engine demo")
     error("incorrect usage")
 end
